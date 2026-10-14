@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard ERP — Cloud Enterprise Management",
+  "description": "Complete cloud ERP system unifying inventory logistics, financial accounting, and human resource management with automated cross-module reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
